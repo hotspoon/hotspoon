@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hotspoon
-- 👀 I’m interested in React, NextJS, Vuejs, Python, SCSS
-- 🌱 I’m currently learning VueJS and NextJS
+- 👀 I’m interested in Nextjs, Astro, Tailwindcss, Python, And SQL
+- 🌱 I’m currently learning Nextjs and Nestjs
 - 📫 How to reach me https://www.linkedin.com/in/hamzah-al-farisi/ on Linkedin
