@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hotspoon
 - 👀 I’m interested in Nextjs, Astro, Tailwindcss, Python, And SQL
-- 🌱 I’m currently learning Nextjs and Python
+- 🌱 I’m currently learning Tanstack Router and Go Gin
 - 📫 How to reach me https://www.linkedin.com/in/hamzah-al-farisi/ on Linkedin
